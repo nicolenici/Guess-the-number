@@ -1,2 +1,2 @@
 # Guess-the-number
- Guess the number game has extensions such as " hot/cold", range selection and sample counter
+Guess the Number has extensions such as hints, hot/cold, trial stories, number range selection
